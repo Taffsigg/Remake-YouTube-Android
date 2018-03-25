@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Remake-YouTube-Android.iml" filepath="$PROJECT_DIR$/Remake-YouTube-Android.iml" />
       <module fileurl="file://C:\Users\Georges\OneDrive - De Vinci\ESILV\A4\Mobile Application Dev\YoutubeAPIV3-master\YoutubeAPIV3.iml" filepath="C:\Users\Georges\OneDrive - De Vinci\ESILV\A4\Mobile Application Dev\YoutubeAPIV3-master\YoutubeAPIV3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/YoutubeAPIV3-master.iml" filepath="$PROJECT_DIR$/YoutubeAPIV3-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
