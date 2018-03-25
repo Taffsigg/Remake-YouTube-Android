@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.com.georgescosson.fragments.PlayListFragment"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:text="Wedge POVs Playlist"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        android:padding="8dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mList_videos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+</LinearLayout>
