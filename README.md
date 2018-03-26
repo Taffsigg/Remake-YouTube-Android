@@ -7,9 +7,7 @@ The Application contains 3 tabs :
 * The Playlist tab : it displays the list of the latest videos of the [Wedge Edit](https://www.youtube.com/watch?v=9rFSFXr_9DQ&list=PLBpomwUGdYvNCT97xRSEPuQAsiKXwo94k) playlist.
 * The Search tab allow the user to search for videos within the YouTube channel.
 
-<img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen1.PNG" alt="Channel Tab Screenshot" width="300" height="550"><img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen2.PNG" alt="Playlist Tab Screenshot" width="300" height="550">
-<img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen1.PNG" alt="Channel Tab Screenshot" width="300" height="550"><img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen2.PNG" alt="Playlist Tab Screenshot" width="300" height="550">
-
+<img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen1.PNG" alt="Channel Tab Screenshot" width="300" height="550"><img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen2.PNG" alt="Playlist Tab Screenshot" width="300" height="550"><img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen4.PNG" alt="Search Tab Screenshot" width="300" height="550">
 
 
 ![Playlist Tab Screenshot](https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen2.PNG)
