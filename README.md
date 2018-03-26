@@ -9,6 +9,12 @@ The Application contains 3 tabs :
 * The Playlist tab : it displays the list of the latest videos of the [Wedge Edit](https://www.youtube.com/watch?v=9rFSFXr_9DQ&list=PLBpomwUGdYvNCT97xRSEPuQAsiKXwo94k) playlist.
 * The Search tab allow the user to search for videos within the YouTube channel.
 
+All the videos are clickable, displaying a detail page with the YouTube Player, the additionnal details and the comments.
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/stressGC/Remake-YouTube-Android/master/img/screen5.PNG" alt="Detail Page Screenshot" width="280" height="500">
+</div>
+
 ## Prerequisites
 
 What things you need to use the project
